@@ -1,0 +1,7 @@
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/aspnetapp
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/appsettings.Development.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/appsettings.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/aspnetapp.dll
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/aspnetapp.deps.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/aspnetapp.runtimeconfig.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/app/aspnetapp.pdb

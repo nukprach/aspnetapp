@@ -1,0 +1,7 @@
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/aspnetapp
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/appsettings.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/aspnetapp.dll
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/aspnetapp.deps.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/aspnetapp.runtimeconfig.json
+/Users/nut/dotnet-docker/samples/aspnetapp/aspnetapp/bin/Debug/net6.0/publish/aspnetapp.pdb
